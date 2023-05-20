@@ -133,7 +133,7 @@
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/btn_dot"
-                android:text="."/>
+                android:text="..."/>
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/btn_0"
